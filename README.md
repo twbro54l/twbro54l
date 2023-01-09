@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twbro54l (David)
-- 👀 I’m interested in studying as muchas possible
+- 👀 I’m interested in studying as much as possible
 - 🌱 I’m currently learning c++/sql
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ... don't know that yet
